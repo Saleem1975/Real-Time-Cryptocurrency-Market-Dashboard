@@ -1,0 +1,109 @@
+{
+  "name": "Crypto Pro Dark - Full",
+  "dataColors": [
+    "#00C896",
+    "#3B82F6",
+    "#F97316",
+    "#A855F7",
+    "#FACC15",
+    "#EF4444",
+    "#22C55E",
+    "#6366F1",
+    "#14B8A6",
+    "#0EA5E9"
+  ],
+  "background": "#0B1020",
+  "foreground": "#E5E7EB",
+  "tableAccent": "#00C896",
+  "visualStyles": {
+
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#0B1020"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F9FAFB"
+              }
+            },
+            "fontSize": 26
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#9CA3AF"
+              }
+            },
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+
+    "barChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "showAll": true
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#E5E7EB"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#9CA3AF"
+              }
+            }
+          }
+        ]
+      }
+    }
+
+  }
+}
