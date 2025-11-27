@@ -115,5 +115,5 @@ The report includes:
 **Dr. Saleem Zeyad Ramadan**  
 Industrial Engineering & Data Analytics  
 
-LinkedIn: *[Add your link]*  
-Email: *[Add your email]*  
+LinkedIn: *[Saleem Ramadan | LinkedIn]*  
+Email: *[linkedinsaleemramadan@gmail.com]*  
